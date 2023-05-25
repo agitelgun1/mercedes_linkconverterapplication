@@ -1,4 +1,4 @@
-## Ntt Data solutions Link Converter Backend Applicantion
+## Mercedes Link Converter Backend Applicantion
 Based on 
 - [More about .NET Core](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Dapper](https://dapper-tutorial.net/dapper)
